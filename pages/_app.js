@@ -1,5 +1,4 @@
 // 1. import `NextUIProvider` component
-import darkTheme from '../themes/darktheme';
 import "../styles/globals.css";
 
 import { NextUIProvider } from '@nextui-org/react';
